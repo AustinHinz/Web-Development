@@ -1,0 +1,27 @@
+body{
+  background-color: #fff0f0;
+  font-size: 100%;
+}
+
+.Title {
+  color: #345B63;
+  font-size: 7vw;    /*vw=Viewport Width, size follows the size of border window*/
+  text-align: center;
+}
+
+.UpperLine {
+  background: black;
+  border: none;
+  height: .7vw;
+  margin-bottom: .1vw;
+  position: relative;
+  bottom: 4.8vw;
+}
+
+.RS {
+  text-align: right;
+}
+
+.LS {
+  text-align: left;
+}
